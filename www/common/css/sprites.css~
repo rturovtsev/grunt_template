@@ -1,0 +1,31 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.icon-M {
+  background-image: url(../img/sprite/sprite.png);
+  background-position: 0px -82px;
+  width: 64px;
+  height: 64px;
+}
+.icon-Spr_BW_Plasma_Grunt_F {
+  background-image: url(../img/sprite/sprite.png);
+  background-position: 0px 0px;
+  width: 80px;
+  height: 80px;
+}
+.icon-Team_Rocket_Grunt(F)GSCsprite {
+  background-image: url(../img/sprite/sprite.png);
+  background-position: -66px -82px;
+  width: 56px;
+  height: 56px;
+}
+.icon-male {
+  background-image: url(../img/sprite/sprite.png);
+  background-position: -82px 0px;
+  width: 80px;
+  height: 80px;
+}
