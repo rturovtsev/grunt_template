@@ -6,5 +6,7 @@
 
 ###Установка:
   cd путь/к/папке/проекта
+
   [sudo] npm install
+
   [sudo] npm install nib
